@@ -1,0 +1,7 @@
+{
+  "name": "국제연대 통역기",
+  "description": "A consecutive interpretation application that translates voice segments every 15-30 seconds between Korean, English, Japanese, and Chinese.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
